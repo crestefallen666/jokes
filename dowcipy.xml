@@ -16,8 +16,23 @@
 	<dowcip>
 		<nr>3</nr>
 		<tresc>	Co blondynka robi pod drzewem?</tresc>
-		<tresc2>-czeka na autograf od kory</tresc2>//jak inaczej zacząć nową linię? 
+		<tresc2>-czeka na autograf od kory</tresc2>
 	</dowcip>
-
+	<dowcip>
+		<nr>4</nr>
+		<tresc>	Jak głęboko w las może wbiec wilk?</tresc>
+		<tresc2>Do połowy - potem już wybiega.</tresc2> 
+	</dowcip>
+	<dowcip>
+		<nr>5</nr>
+		<tresc>	Szedł Jezus przez pole marchwi i się potknął. 
+			Co zrobił?</tresc>
+		<tresc2>Z marchwi wstał.</tresc2> 
+	</dowcip>
+	<dowcip>
+		<nr>6</nr>
+		<tresc>	Jak matematycy zapraszają się na wódkę?</tresc>
+		<tresc2>- Chodź, zamienimy procenty na promile.</tresc2>
+	</dowcip>	
 
 </dowcipy>
