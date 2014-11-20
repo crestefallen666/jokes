@@ -1,0 +1,4 @@
+jokes
+=====
+
+collection of jokes
