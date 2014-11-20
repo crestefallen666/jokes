@@ -4,7 +4,7 @@
 	<title>Katalog dowcipów</title>
 </head>
 <body bgcolor="silver">
-<center><font color="navy" size="4">KATALOG DOWCIPÓW</font></center> <br>
+<center><font color="green" size="4">KATALOG DOWCIPÓW</font></center> <br>
 <font color="blue">
 <?php
 $wyswietl = simplexml_load_file('dowcipy.xml');
